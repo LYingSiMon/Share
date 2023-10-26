@@ -6,11 +6,14 @@
 5. 软件目前功能单一，想要什么新功能，大家可以给一些建议。
 
 # 如何下载文件
-点击右侧 "last release" 按钮
+1. 点击右侧 "last release" 按钮
+
 ![image](https://github.com/LYingSiMon/Share/assets/51651107/77165e4e-8d63-46e4-a820-73fcd8ba7486)
-下载除了 "source code" 之外的所有文件
+
+2. 下载除了 "source code" 之外的所有文件
 ![image](https://github.com/LYingSiMon/Share/assets/51651107/6e612a3a-da43-4f5f-987b-987d1e28e7a9)
-请确保这些文件都在同一文件夹下，且文件夹路径最好不要携带中文
+
+3. 请确保这些文件都在同一文件夹下，且文件夹路径最好不要携带中文
 
 
 # 关于机器码封禁
