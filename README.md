@@ -13,7 +13,9 @@
 2. 下载除了 "source code" 之外的所有文件
 ![image](https://github.com/LYingSiMon/Share/assets/51651107/6e612a3a-da43-4f5f-987b-987d1e28e7a9)
 
-3. 请确保这些文件都在同一文件夹下，且文件夹路径最好不要携带中文
+3. 请确保这些文件都在同一文件夹下，且文件夹路径最好不要携带中文，运行 GetHwid.exe , 赋值机器码发到群里，我会帮你绑定设备，之后即可使用。
+![image](https://github.com/LYingSiMon/Share/assets/51651107/3f3d853f-e4c0-4546-a601-df4837cb85f9)
+
 
 
 # 关于机器码封禁
