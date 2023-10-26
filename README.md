@@ -15,6 +15,7 @@
 
 3. 请确保这些文件都在同一文件夹下，且文件夹路径最好不要携带中文，运行 GetHwid.exe , 赋值机器码发到群里，我会帮你绑定设备，之后即可使用。
 ![image](https://github.com/LYingSiMon/Share/assets/51651107/3f3d853f-e4c0-4546-a601-df4837cb85f9)
+![image](https://github.com/LYingSiMon/Share/assets/51651107/ccb66e6f-f996-4ee6-b8a7-1018092f1949)
 
 
 
