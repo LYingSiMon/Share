@@ -17,7 +17,12 @@
 ![image](https://github.com/LYingSiMon/Share/assets/51651107/3f3d853f-e4c0-4546-a601-df4837cb85f9)
 ![image](https://github.com/LYingSiMon/Share/assets/51651107/ccb66e6f-f996-4ee6-b8a7-1018092f1949)
 
-
+# 如何使用
+1. 关杀软，关 vt（否则封号）
+2. 打开瓦
+3. 等待大厅界面出现（游戏请开全屏窗口模式，或窗口模式，全屏现在有点问题）
+4. 管理员启动 LyVaUm.exe（不建议放在中文目录下），如果成功则会有 "启动成功" 提示，否则会有对应的报错提示。
+5. 退出游戏时，请在任务管理器中一并将此软件退出。
 
 # 关于机器码封禁
 可以使用这个 yc 软件 [https://www.gualaox.com/d/393-yc%E6%95%99%E7%A8%8B] 
